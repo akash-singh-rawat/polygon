@@ -10,8 +10,8 @@
     ],
     "coin_details": {
         "name": "Polygon",
-        "symbol": "ETH",
-        "logo": "logo/ethereum.png",
+        "symbol": "MATIC",
+        "logo": "logo/polygon.png",
         "max_supply": "∞"
     },
     "chain_details": [
