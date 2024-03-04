@@ -89,8 +89,7 @@
                 },
                 {
                     "name": "Yahoo Finance",
-                    "url": "https://finance.yahoo.com/quote/ETH-USD"
-                }
+                    "url": "https://finance.yahoo.com/quote/MATIC-USD/"
             ]
         },
         {
@@ -102,7 +101,7 @@
                 },
                 {
                     "name": "Blockchair",
-                    "url": "https://blockchair.com/ethereum"
+                    "url": "https://blockchair.com/polygon"
                 },
                 {
                     "name": "Parsec",
@@ -110,7 +109,7 @@
                 },
                 {
                     "name": "OKLink",
-                    "url": "https://www.oklink.com/eth"
+                    "url": "https://www.oklink.com/polygon/token/"
                 },
                 {
                     "name": "Ethplorer",
@@ -118,11 +117,11 @@
                 },
                 {
                     "name": "TokenView",
-                    "url": "https://eth.tokenview.io/"
+                    "url": "https://polygon.tokenview.io/"
                 },
                 {
                     "name": "3xpl",
-                    "url": "https://3xpl.com/ethereum"
+                    "url": "https://3xpl.com/polygon"
                 },
                 {
                     "name": "BlockSec",
@@ -138,7 +137,7 @@
                 },
                 {
                     "name": "Dedaub",
-                    "url": "https://app.dedaub.com/?network=ethereum"
+                    "url": "https://app.dedaub.com/ethereum/"
                 }
             ]
         },
@@ -184,8 +183,8 @@
             "name": "grants",
             "data": [
                 {
-                    "name": "Ethereum Foundation",
-                    "url": "https://ethereum.org/en/community/grants/"
+                    "name": "Polygon Village",
+                    "url": "https://polygon.technology/village/grants"
                 }
             ]
         },
@@ -194,15 +193,15 @@
             "data": [
                 {
                     "name": "Alchemy",
-                    "url": "https://goerlifaucet.com"
+                    "url": "https://www.alchemy.com/case-studies/polygon"
                 },
                 {
                     "name": "QuickNode",
-                    "url": "https://faucet.quicknode.com/ethereum"
+                    "url": "https://www.quicknode.com/chains/matic"
                 },
                 {
                     "name": "All That Node",
-                    "url": "https://www.allthatnode.com/faucet/ethereum.dsrv"
+                    "url": "https://www.allthatnode.com/faucet/polygon.dsrv"
                 },
                 {
                     "name": "Holesky PoW Faucet",
@@ -215,7 +214,7 @@
             "data": [
                 {
                     "name": "Chainlist",
-                    "url": "https://chainlist.org/chain/1"
+                    "url": "https://chainlist.org/chain/137"
                 }
             ]
         },
